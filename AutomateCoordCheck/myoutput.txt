@@ -1,0 +1,2 @@
+MNI152_T1_1mm 0 -36 14 yes
+MNI152_T1_1mm 4 5 6 no
